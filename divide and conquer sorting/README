@@ -1,0 +1,25 @@
+OPIS ZESTAWU
+
+1.implementacje kopca binarnego i jego sortowania znajduja sie w plikach Heap.hxx i Heap.cxx
+Sortowanie stogowe(heapsort) jest wykorzystywane w programie HeapCheck.cxx, który korzysta z 
+sortowania iteracyjnego (gdyż jest lepsze bo tak). Program posiada dwie opcje które wpisuje sie 
+podczas uruchamiania programu. Opcja 1 to mierzenie czasu wykonania sortowania. Opcja 2 to wypisywanie wszystkich elementow
+
+2. Quick sort- wersja rekurencyjna i Merge sort wersja nierekurencyjna
+Programy podobnie jak HeapCheck posiadaja dwie opcje
+
+Aby sprawdzic poprawnosc sortowania nalezy wywolac make checkSort z argumentem amount=(ilosc liczb).
+Wywola to programy do sortowan a wyniki zapisze w plikach. Nastepnie porowna je ze soba za pomoca diff.
+
+3. Aby sprawdzic czas wykonania wykonujemy make measure_time z agrumentami generator=(program losujacy liczby) program=(program dla ktorego mierzymy czas)
+
+3. Aby sprawdzic wszystkie algorytmy wykonujemy make measure_all z tymi samy mi argumentami co wyzej.
+
+3. Aby zobaczyc czasy sortowania na wykresie nalezy wpisac linijke: gnuplot --persist > load plot.gnu
+
+4. Wszystkie wyniki, liczby porownan i zlozonosci obliczeniowe znajduja sie w pliku tabelka.txt
+
+5.Aby sprawdzic wydajnosc funkcji qsort i std::sort() nalezy wywolac make checkTime z argumentami generator=(program do losowania liczb) i amount=(ilosc liczb)
+Porowna on czas kompilacji i czasy sortowania dla poszczegolnych funkcji
+
+

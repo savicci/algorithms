@@ -1,0 +1,101 @@
+Liczba polecen: 100
+FALSE
+Rozmiar listy to 0 elementow
+Rozmiar listy to 0 elementow
+EMPTY
+FALSE
+EMPTY
+EMPTY
+EMPTY
+Klade liczbe 622 na poczatek listy
+Rozmiar listy to 1 elementow
+Klade liczbe 552 na koniec listy
+Klade liczbe 651 na koniec listy
+FALSE
+Klade liczbe 28 na koniec listy
+Klade liczbe 194 na poczatek listy
+FALSE
+FALSE
+Klade liczbe 749 na poczatek listy
+Rozmiar listy to 6 elementow
+Sciagam 28 z konca listy
+Klade liczbe 176 na koniec listy
+Sciagam 176 z konca listy
+Klade liczbe 101 na koniec listy
+Sciagam 101 z konca listy
+Klade liczbe 377 na koniec listy
+Klade liczbe 728 na poczatek listy
+Klade liczbe 368 na koniec listy
+Klade liczbe 624 na poczatek listy
+Rozmiar listy to 9 elementow
+Klade liczbe 701 na poczatek listy
+Sciagam 368 z konca listy
+Klade liczbe 126 na poczatek listy
+Klade liczbe 810 na koniec listy
+Sciagam 126 z poczatku listy
+FALSE
+Klade liczbe 580 na koniec listy
+Sciagam 701 z poczatku listy
+FALSE
+Sciagam 624 z poczatku listy
+Klade liczbe 9 na poczatek listy
+Sciagam 580 z konca listy
+Klade liczbe 518 na poczatek listy
+Klade liczbe 900 na koniec listy
+Sciagam 900 z konca listy
+FALSE
+Klade liczbe 162 na poczatek listy
+Sciagam 810 z konca listy
+Sciagam 162 z poczatku listy
+FALSE
+Klade liczbe 180 na koniec listy
+FALSE
+Rozmiar listy to 10 elementow
+Rozmiar listy to 10 elementow
+FALSE
+Klade liczbe 485 na koniec listy
+Sciagam 485 z konca listy
+Klade liczbe 505 na poczatek listy
+Rozmiar listy to 11 elementow
+FALSE
+FALSE
+FALSE
+Klade liczbe 816 na koniec listy
+FALSE
+FALSE
+Sciagam 505 z poczatku listy
+Sciagam 816 z konca listy
+TRUE
+FALSE
+Klade liczbe 585 na koniec listy
+Rozmiar listy to 11 elementow
+Klade liczbe 713 na koniec listy
+Sciagam 713 z konca listy
+Klade liczbe 355 na koniec listy
+Sciagam 355 z konca listy
+Klade liczbe 48 na koniec listy
+Klade liczbe 926 na poczatek listy
+Sciagam 48 z konca listy
+Sciagam 926 z poczatku listy
+FALSE
+Sciagam 585 z konca listy
+Sciagam 180 z konca listy
+FALSE
+Sciagam 518 z poczatku listy
+FALSE
+Sciagam 377 z konca listy
+Sciagam 9 z poczatku listy
+Rozmiar listy to 6 elementow
+Rozmiar listy to 6 elementow
+Klade liczbe 93 na poczatek listy
+Klade liczbe 78 na koniec listy
+Sciagam 93 z poczatku listy
+FALSE
+FALSE
+Rozmiar listy to 7 elementow
+Rozmiar listy to 7 elementow
+Sciagam 78 z konca listy
+Sciagam 651 z konca listy
+FALSE
+Klade liczbe 562 na koniec listy
+Sciagam 562 z konca listy

@@ -1,0 +1,32 @@
+Liczba operacji
+                genSorted           genReverse          genSortedFirst      genSortedLast
+
+        Heap    283275             270317              283249              283274    
+10000   Quick   5.00e+7            4.5e+7              5.00e+7             5.00e+7
+        Merge   230805             294836              240804              230805
+
+        Heap    616737             591570              616144              616737
+20000   Quick   2.00e+8            1.82e+8             2.00e+8             2.00e+8
+        Merge   491605             629722              511604              491605
+    
+        Heap    1.33e+6            1.28e+6             1.33e+6             1.33e+6
+40000   Quick   8.00e+8            7.23e+8             8.00e+8             8.00e+8
+        Merge   1.04e+6            1.39e+9             1.08e+6             1.32e+6
+
+        Heap    2.78e+6            2.75e+6             2.87e+6             2.87e+6
+80000   Quick   3.20e+9            2.89e+9             3.20e+9             3.20e+9
+        Merge   2.20e+6            2.83e+6             2.28e+6             2.20e+6
+
+        Heap    6.14e+6            5.91e+6             6.13e+6             6.13e+6
+160000  Quick   1.28e+10           1.15e+10            1.21e+10            1.82e+10
+        Merge   3.65e+6            5.99e+6             4.79e+6             4.65e+6
+
+
+
+sort    worst           average         best      
+
+Heap    n*log(n)        n*log(n)        n*log(n)
+
+Merge   n*log(n)        n*log(n)        n*log(n)
+
+Quick   n*log(n)        n*log(n)        n*n
